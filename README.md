@@ -6,7 +6,7 @@ Dataset description:  [SemEval-2018 task 3 - Irony detection in English tweets](
 
 1. Project report is in folder /doc 
 
-2. Results are in /out/experiments/
+2. Results are in foler /out/experiments/
 
 3. Run models/task3/train for ntua implementation
 
