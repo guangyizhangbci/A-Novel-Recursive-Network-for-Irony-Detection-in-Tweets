@@ -1,7 +1,7 @@
 # NLP-Project
 
 Install requirements first
-[Architecture](https://github.com/guangyizhangbci/A-Novel-Recursive-Network-for-Irony-Detection-in-Tweets/doc/architecture.pdf)
+![alt Architecture](https://github.com/guangyizhangbci/A-Novel-Recursive-Network-for-Irony-Detection-in-Tweets/doc/architecture.pdf)
 
 Dataset description:  [SemEval-2018 task 3 - Irony detection in English tweets](https://competitions.codalab.org/competitions/17468)
 
