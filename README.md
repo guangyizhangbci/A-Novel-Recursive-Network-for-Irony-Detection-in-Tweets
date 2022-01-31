@@ -1,7 +1,7 @@
 # NLP-Project
 
 Install requirements first
-![Architecture](/doc/architecture.pdf)
+![Architecture](/doc/architecture.jpg)
 
 Dataset description:  [SemEval-2018 task 3 - Irony detection in English tweets](https://competitions.codalab.org/competitions/17468)
 
