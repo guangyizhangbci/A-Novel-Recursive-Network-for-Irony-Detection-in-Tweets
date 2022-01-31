@@ -15,5 +15,8 @@ Dataset description:  [SemEval-2018 task 3 - Irony detection in English tweets](
 
 5. Download ntua embeddings from their git by running one of their tasks and put it under "embeddings"
 
+The follwing is our proposed architectur: 
+
+
 ![alt The follwing is our proposed architecture](/doc/architecture.jpg)
 
