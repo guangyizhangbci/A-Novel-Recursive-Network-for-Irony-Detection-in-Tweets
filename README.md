@@ -1,7 +1,7 @@
 # NLP-Project
 
 Install requirements first
-![Architecture](/doc/architecture.jpg)
+
 
 Dataset description:  [SemEval-2018 task 3 - Irony detection in English tweets](https://competitions.codalab.org/competitions/17468)
 
@@ -14,3 +14,6 @@ Dataset description:  [SemEval-2018 task 3 - Irony detection in English tweets](
 4. Run /Vandad/try-bert to play with bert
 
 5. Download ntua embeddings from their git by running one of their tasks and put it under "embeddings"
+
+![The follwing is our proposed architecture](/doc/architecture.jpg)
+
