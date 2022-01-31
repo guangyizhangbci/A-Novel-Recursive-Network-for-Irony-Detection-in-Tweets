@@ -12,7 +12,7 @@ Dataset description:  [SemEval-2018 task 3 - Irony detection in English tweets](
 
 4. Run /Vandad/try-bert to play with bert
 
-5. Download [ntua embeddings](https://github.com/cbaziotis/ntua-slp-semeval2018) from their git by running one of their tasks and put it under "embeddings" 
+5. Download ntua embeddings from their [git](https://github.com/cbaziotis/ntua-slp-semeval2018) by running one of their tasks and put it under "embeddings" 
 
 6. Results are in foler /out/experiments/
 
