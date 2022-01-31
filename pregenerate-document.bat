@@ -1,0 +1,2 @@
+@echo off
+python "Vandad/pregenerate_training_data.py" --train_corpus "_cache/document.txt" --bert_model bert-base-multilingual --do_lower_case --output_dir "trained/" --epochs_to_generate 10 --max_seq_len 256

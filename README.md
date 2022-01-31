@@ -1,8 +1,10 @@
-# A-Novel-Recursive-Network-for-Irony-Detection-in-Tweets
+# NLP-Project
 
-This is a course project on Machine Learning for Natural Language Processing (ELEC 880, Queen's University)
+Install requirements first
 
-Project report attached
 
-Code will be released before 10 Feb, 2022
+Run models/task3/train for ntua implementation
 
+Run Vandad/try-bert to play with bert
+
+download ntua embeddings from their git by running one of their tasks and put it under "embeddings"
