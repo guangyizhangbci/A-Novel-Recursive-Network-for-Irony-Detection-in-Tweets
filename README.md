@@ -1,4 +1,4 @@
-# A Novel Recursive Network for Irony Detection in Tweets
+# A Novel Recursive Network for Irony Detection in Tweets (PyTorch)
 
 
 Dataset description:  [SemEval-2018 task 3 - Irony detection in English tweets](https://competitions.codalab.org/competitions/17468)
